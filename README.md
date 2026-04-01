@@ -170,3 +170,23 @@ The Pandas version made it much faster to:
 - summarize numeric columns with describe()
 
 Pandas reduced a lot of code and made the workflow much more efficient.
+
+## Dataset
+
+The dataset is not included in this repository.
+
+You can download the dataset from the following source:
+[https://drive.google.com/file/d/1gvtvX8fATFrrzraPmTSf205U8u3JExUR/view]
+
+After downloading, place the file in the root directory of this project with the following name:
+
+fb_ads_president_scored_anon.csv
+
+The folder structure should look like this:
+
+Task_01_Descriptive_Stats/
+├── pure_python_stats.py
+├── pandas_stats.py
+├── README.md
+├── requirements.txt
+└── fb_ads_president_scored_anon.csv
