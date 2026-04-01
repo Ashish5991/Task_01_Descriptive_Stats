@@ -181,12 +181,3 @@ You can download the dataset from the following source:
 After downloading, place the file in the root directory of this project with the following name:
 
 fb_ads_president_scored_anon.csv
-
-The folder structure should look like this:
-
-Task_01_Descriptive_Stats/
-├── pure_python_stats.py
-├── pandas_stats.py
-├── README.md
-├── requirements.txt
-└── fb_ads_president_scored_anon.csv
